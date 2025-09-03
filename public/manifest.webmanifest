@@ -1,0 +1,11 @@
+{
+  "name": "IdosoMS",
+  "short_name": "IdosoMS",
+  "start_url": "/dashboard.php",
+  "display": "standalone",
+  "background_color": "#0e1726",
+  "theme_color": "#3b82f6",
+  "icons": [
+    { "src": "/assets/img/logo.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

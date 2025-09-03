@@ -1,0 +1,16 @@
+{
+  "name": "idosoms/app",
+  "description": "IdosoMS - Avaliacoes IVCF-20/IVSF-10",
+  "type": "project",
+  "require": {
+    "mpdf/mpdf": "^8.2",
+    "phpoffice/phpspreadsheet": "^2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Core\\": "src/Core/",
+      "Controllers\\": "src/Controllers/",
+      "Models\\": "src/Models/"
+    }
+  }
+}
